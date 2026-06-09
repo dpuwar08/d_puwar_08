@@ -1,5 +1,5 @@
 # d_puwar_08
-# Hi there, I'm Divyarajsinh Puwar 👋 (@dpuwar08)
+# Hi there, I'm Divyarajsinh Puwar 👋 (@d_puwar_08)
 
 "Working from day one until one day comes ⚡"
 
@@ -42,7 +42,7 @@ I am an aspiring AI Engineer from Gujarat, India, dedicated to mastering compute
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpuwar08&show_icons=true&theme=dark&hide_border=true" alt="dpuwar08's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d_puwar_08&show_icons=true&theme=dark&count_private=true" alt="d_puwar_08's GitHub Stats" />
 </p>
 
 ---
