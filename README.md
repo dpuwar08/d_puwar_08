@@ -92,6 +92,10 @@ height="260"
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dpuwar08/d_puwar_08/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🌐 Quick Info
