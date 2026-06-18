@@ -49,22 +49,43 @@
 
 ## 📈 GitHub Activity & Stats
 
-<p align="left">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.shion.dev/api?username=dpuwar08&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Divyarajsinh's GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dpuwar08&theme=dark&layout=compact&hide_border=true&langs_count=6" alt="Divyarajsinh's Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
+<table width="100%">
+<tr>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpuwar08&theme=dark&hide_border=true" alt="Divyarajsinh's Commit Streak Tracker" width="100%" />
-</p>
+<td width="50%">
+<img
+src="https://github-readme-stats.vercel.app/api?username=dpuwar08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=550"
+width="100%"
+height="260"
+/>
+</td>
+
+<td width="50%">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpuwar08&layout=compact&theme=tokyonight&hide_border=true&card_width=550"
+width="100%"
+height="260"
+/>
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=dpuwar08&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpuwar08&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
