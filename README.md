@@ -2,7 +2,12 @@
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
       <td valign="middle" align="left">
-        <h1>👨‍💻 Divyarajsinh Puwar</h1>
+       <h1 align="center">Hi 👋, I'm Divyarajsinh Puwar</h1>
+       
+
+<h3>
+🚀 Learning C++ & Python | Building Consistency One Commit at a Time
+</h3>
         <blockquote>⚡ <em>"Working from day one until one day comes."</em></blockquote>
         <p>Welcome to my GitHub profile! I'm a coding enthusiast from Gujarat, India. I really enjoy learning how programming languages work, writing scripts, and figuring out logic problems. This space is where I keep track of all my practice files and document my learning journey from scratch.</p>
       </td>
