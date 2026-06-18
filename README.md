@@ -75,7 +75,7 @@ height="260"
 <tr>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=dpuwar08&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=dpuwar08&theme=tokyonight&hide_border=true&cache_seconds=300" width="100%"/>
 
 </td>
 
