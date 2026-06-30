@@ -48,8 +48,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=dpuwar08&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dpuwar08&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-azure-kappa-78.vercel.app/api?username=dpuwar08&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-azure-kappa-78.vercel.app/api/top-langs/?username=dpuwar08&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dpuwar08&theme=tokyonight&hide_border=true&cache=fresh"/>
+<img src="https://streak-stats.demolab.com?user=dpuwar08&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
